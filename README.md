@@ -5,7 +5,6 @@
 
 The CPU Scheduling Algorithms Visualizer is a C++ based tool that showcases the internal workings of various CPU scheduling algorithms. This tool helps in understanding and visualizing how different scheduling algorithms manage processes in an operating system. The supported algorithms include:
 
-
 - First-Come, First-Served (FCFS)
 - Round Robin (RR)
 - Shortest Process Next (SPN)
@@ -14,6 +13,7 @@ The CPU Scheduling Algorithms Visualizer is a C++ based tool that showcases the 
 - Feedback (FB)
 - Feedback with Varying Quantum (FBV)
 - Aging
+
 ## Features
 
 - Algorithm Visualization: Detailed visualization of various CPU scheduling algorithms.
